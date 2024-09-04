@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @debojr
 - 👀 I’m interested in SAP, JS, Frontend
-- 🌱 I’m currently learning NodeJS, UFT, Angular
 - 📫 How to reach me? LinkedIN ;)
 
 <!---
